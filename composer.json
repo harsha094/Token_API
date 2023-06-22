@@ -1,0 +1,11 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.4",
+        "phpoffice/phpspreadsheet": "^1.28"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1"
+        }
+    }
+}
